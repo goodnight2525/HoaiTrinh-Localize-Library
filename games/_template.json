@@ -1,0 +1,21 @@
+{
+  "id": "game-id",
+  "name": "Tên game",
+  "exe_name": "Game.exe",
+  "steam_folder": "Tên thư mục Steam",
+  "translation_version": "v1.0",
+  "supported_versions": ["Steam"],
+  "card_version_title": "v1.0",
+  "card_version_sub": "Bản Việt hóa Hoài Trinh",
+  "font_title": "Vietnamese",
+  "font_sub": "Hỗ trợ tiếng Việt",
+  "install_kind": "online_package",
+  "hero_tagline": "Vietnamese Localization",
+  "hero_subline": "Hoài Trinh Localize Studio",
+  "banner_url": "games/game-id/banner.png",
+  "download": {
+    "status": "pending_upload",
+    "url": "",
+    "sha256": ""
+  }
+}
