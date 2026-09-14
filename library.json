@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "library_name": "Hoài Trinh Localize Library",
+  "mode": "free",
+  "updated_at": "2026-09-15",
+  "games": [
+    {
+      "id": "combolands",
+      "name": "Combolands",
+      "status": "available",
+      "metadata_url": "games/combolands.json"
+    },
+    {
+      "id": "wanderburg",
+      "name": "Wanderburg",
+      "status": "available",
+      "metadata_url": "games/wanderburg.json"
+    }
+  ]
+}
