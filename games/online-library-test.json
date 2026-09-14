@@ -1,0 +1,22 @@
+{
+  "id": "online-library-test",
+  "name": "Online Library Test",
+  "exe_name": "OnlineLibraryTest.exe",
+  "steam_folder": "Online Library Test",
+  "translation_version": "TEST",
+  "supported_versions": ["TEST"],
+  "supported_version": "TEST",
+  "card_version_title": "ONLINE TEST",
+  "card_version_sub": "Kiểm tra cập nhật thư viện",
+  "font_title": "N/A",
+  "font_sub": "Game thử nghiệm, không có patch",
+  "install_kind": "online_pending",
+  "hero_tagline": "Online Library Sync Test",
+  "hero_subline": "Nếu bạn thấy game này, cập nhật online đã hoạt động",
+  "banner_url": "",
+  "download": {
+    "status": "pending_upload",
+    "url": "",
+    "sha256": ""
+  }
+}
