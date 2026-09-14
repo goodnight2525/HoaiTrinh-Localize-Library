@@ -1,0 +1,17 @@
+{
+  "id": "combolands",
+  "name": "Combolands",
+  "exe_name": "Combolands.exe",
+  "steam_folder": "Combolands",
+  "translation_version": "v2.1",
+  "supported_versions": ["Steam"],
+  "install_kind": "combolands_engine",
+  "hero_tagline": "Roguelike Citybuilder • Vietnamese Localization",
+  "hero_subline": "Việt hóa bởi Hoài Trinh Localize Studio",
+  "banner_url": "games/combolands/banner.png",
+  "download": {
+    "status": "pending_upload",
+    "url": "",
+    "sha256": ""
+  }
+}
