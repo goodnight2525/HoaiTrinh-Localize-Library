@@ -1,0 +1,17 @@
+{
+  "id": "wanderburg",
+  "name": "Wanderburg",
+  "exe_name": "Wanderburg.exe",
+  "steam_folder": "Wanderburg Game",
+  "translation_version": "v1.3.3",
+  "supported_versions": ["EA 0.9.11", "EA 0.9.5"],
+  "install_kind": "file_bundle",
+  "hero_tagline": "Vehicular Roguelike • Vietnamese Localization",
+  "hero_subline": "Bản Việt hóa Hoài Trinh",
+  "banner_url": "games/wanderburg/banner.png",
+  "download": {
+    "status": "pending_upload",
+    "url": "",
+    "sha256": ""
+  }
+}
